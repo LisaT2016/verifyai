@@ -5,6 +5,6 @@ Application: https://verifyai-ten.vercel.app/
 
 Demo: https://youtu.be/izyvrNWZGQs?si=OFWcUzpdWzjhR7v7
 
-Documentation Writeup: kaggle.com/competitions/hack-michigan/writeups/verifyai
+Documentation Writeup: https://www.kaggle.com/competitions/hack-michigan/writeups/verifyai
 
 Presentation:
